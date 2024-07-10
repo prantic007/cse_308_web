@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.out{
+    margin-top: 0px;
+    background-color: rgb(200, 236, 236);
+    height: 600px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 800;
+}
+.input{
+    margin-bottom: 30px;
+    height: 30px;
+    width: 400px;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.pera{
+    font-size: 30px;
+    font-weight: 700;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inersub{
+    height: 30px;
+    width: 300px;
+    color: white;
+    background-color: rgb(137, 238, 137);
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;;
+}
